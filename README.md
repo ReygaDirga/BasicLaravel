@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-UI-purple?style=for-the-badge&logo=bootstrap" />
 </p>
 
-A Laravel-based learning project developed for a **Web Programming course**, covering backend fundamentals from routing to authentication and full CRUD implementation.
+A Laravel based learning project developed for a **Web Programming course**, covering backend fundamentals from routing to authentication and full CRUD implementation.
 
 ---
 
