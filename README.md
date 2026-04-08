@@ -1,10 +1,9 @@
-<h1 align="Center">Laravel Web Programming Learning Project</h1>
+<h1 align="Center">Laravel Web Programming</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-Framework-red?style=for-the-badge&logo=laravel" />
   <img src="https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/Bootstrap-UI-purple?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Status-Learning_Project-green?style=for-the-badge" />
 </p>
 
 A Laravel-based learning project developed for a **Web Programming course**, covering backend fundamentals from routing to authentication and full CRUD implementation.
